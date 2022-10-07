@@ -1,4 +1,4 @@
-# tester
+# Editor
 
 A new Flutter project.
 
